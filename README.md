@@ -1,4 +1,4 @@
-# Optimization-and-Numerical-Methods
+# Optimization & Numerical Methods
 Calculators for various optimisation techniques. 
 
 ### Single Variable Optimization
